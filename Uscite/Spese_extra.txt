@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Cinema 100 euro Ristorante 150 euro
 commit provaaaaa
+=======
+Cinema 100 euro Ristorante 150 euro
+>>>>>>> f73a624... Primo Commit: Aggiunte nuove Spese
