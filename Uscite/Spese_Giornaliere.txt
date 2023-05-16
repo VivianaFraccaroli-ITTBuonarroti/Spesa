@@ -1,0 +1,7 @@
+ Gennaio settimana 1 
+Verdure = 10
+Frutta = 10
+Bevande = 10
+Pasta = 10
+Carne = 10
+Pesce = 10

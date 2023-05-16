@@ -1,0 +1,5 @@
+ Gas = 100
+Luce = 100
+Acqua = 100
+Internet = 100
+Condominio = 100
